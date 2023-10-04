@@ -1,0 +1,6 @@
+.borde {
+	background-color: #ffb311;
+	height: 350px;
+	text-align: center;
+	border-radius: 10px 10px 10px 10px;
+}
